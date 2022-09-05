@@ -15,7 +15,7 @@ int main() {
 	count_(9);
 	count_(10);
 	cout << "Start!!"<<endl;
-	count << "2016313097 이동석" << endl;
+	cout << "2016313097 이동석" << endl;
 	return 0;
 
 }
